@@ -64,9 +64,11 @@ Factors deciding loan defaulters are as follow,
 - Python 3.0
 - Git Bash
 - Git Hub
+- Visual code studio
 
 
 ## Contact
+
 Created by 
 Mr. Bhushan Date (bhushandate143@gmail.com)
 <br>Mr. Diwakar Suresh (sdiwakar34@gmail.com)
