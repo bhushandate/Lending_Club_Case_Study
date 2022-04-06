@@ -69,6 +69,6 @@ Factors deciding loan defaulters are as follow,
 ## Contact
 Created by 
 Mr. Bhushan Date (bhushandate143@gmail.com)
-Mr. Diwakar Suresh (sdiwakar34@gmail.com)
+<br>Mr. Diwakar Suresh (sdiwakar34@gmail.com)
 
 - feel free to contact us!
